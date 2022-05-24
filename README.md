@@ -6,7 +6,7 @@
   SO THAT my account balance is accurate when I am traveling.`
 
 # Acceptance Critera
- `GIVEN a budget tracker without an internet connection
+* `GIVEN a budget tracker without an internet connection
  WHEN the user inputs an expense or deposit
  THEN they will receive a notification that they have added an expense or deposit
  WHEN the user reestablishes an internet connection
