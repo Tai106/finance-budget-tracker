@@ -4,9 +4,9 @@
 * This application allows it's users to track their money both online and offline. 
 
 # User Story
-  AS AN avid traveler
-  I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-  SO THAT my account balance is accurate when I am traveling.
+  As an avid traveler
+  I want to be able to track my withdrawals and deposits with or without a data/internet connection
+  So that my account balance is accurate when I am traveling.
 
 # Acceptance Critera
  GIVEN a budget tracker without an internet connection
