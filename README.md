@@ -1,20 +1,19 @@
 # finance-budget-tracker
 
+# Description
+* This application allows it's users to track their money both online and offline. 
+
 # User Story
-* `AS AN avid traveler
+  AS AN avid traveler
   I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-  SO THAT my account balance is accurate when I am traveling.`
+  SO THAT my account balance is accurate when I am traveling.
 
 # Acceptance Critera
-* `GIVEN a budget tracker without an internet connection
+ GIVEN a budget tracker without an internet connection
  WHEN the user inputs an expense or deposit
  THEN they will receive a notification that they have added an expense or deposit
  WHEN the user reestablishes an internet connection
- THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated`
-
-# Deployed URL
-* 
-
+ THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 # Tech Used
 * Node.js
@@ -24,15 +23,21 @@
 * Express.js
 * PWA
 * IndexedDB
+* Manifest
 
 # Installation
-* Install npm: `npm init -y`
+* To install this application, clone the code into your terminal for the respective repository. Then, install npm by entering the command npm install into the terminal. This will install all dependencies in the package.json required to run this application.
 
 # Usage
-* Run `npm start`
+* npm install
+* Run npm start
 
 
 # Screenshots
+* ![budget](https://user-images.githubusercontent.com/92614793/170417928-f9e509af-46f2-4d22-89fd-751b9ac88f4a.JPG)
+
+
+# Deployed URL
 * 
 
 
