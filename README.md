@@ -1,7 +1,7 @@
 # finance-budget-tracker
 
 # Description
-* This application allows it's users to track their money both online and offline. 
+* This application allows it's users to track their money both online and  offline. 
 
 # User Story
   As an avid traveler
@@ -38,7 +38,7 @@
 
 
 # Deployed URL
-* 
+* https://finance-budget-tracker1.herokuapp.com/
 
 
 # Contributor
