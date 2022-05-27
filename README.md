@@ -34,7 +34,7 @@
 
 
 # Screenshots
-* ![budget](https://user-images.githubusercontent.com/92614793/170417928-f9e509af-46f2-4d22-89fd-751b9ac88f4a.JPG)
+![budget](https://user-images.githubusercontent.com/92614793/170417928-f9e509af-46f2-4d22-89fd-751b9ac88f4a.JPG)
 
 
 # Deployed URL
