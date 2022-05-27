@@ -38,7 +38,7 @@
 
 
 # Deployed URL
-* https://finance-budget-tracker1.herokuapp.com/
+* https://fast-temple-54089.herokuapp.com/
 
 
 # Contributor
